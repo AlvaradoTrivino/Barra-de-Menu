@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MenuBarra",
+            "request": "launch",
+            "mainClass": "FundamentoDiseno.MenuBarra",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "SistemaMenús_bc674712"
+        },
+        {
+            "type": "java",
+            "name": "MenuExample",
+            "request": "launch",
+            "mainClass": "FundamentoDiseno.MenuExample",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "SistemaMenús_bc674712"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "FundamentoDiseno.Menu",
+            "vmArgs": "--module-path p:\\Instaladores\\javafx-sdk-17.0.9\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "SistemaMenús_bc674712"
+        }
+    ]
+}
