@@ -1,18 +1,11 @@
-## Getting Started
+## Barra de Menu
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Obejetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Desarrollar una interfaz gráfica de usuario (GUI) en JavaFX que incluya una barra de menú con varias opciones y submenús, permitiendo al usuario realizar diferentes acciones a través de estos menús
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Explcacion 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+El código define una interfaz gráfica de usuario (GUI) en JavaFX con una barra de menú que incluye los menús principales "Archivo", "Editar" y "Ayuda". Cada menú contiene varios elementos de menú (opciones) que permiten al usuario realizar diferentes acciones, como "Nuevo", "Abrir", "Guardar", y "Salir" en "Archivo"; "Pegar", "Cortar" y "Copiar" en "Editar"; y una opción de ayuda en "Ayuda". Las acciones de estos elementos de menú imprimen mensajes en la consola o, en el caso de "Salir", cierran la aplicación. La barra de menú se organiza en la parte superior de la ventana utilizando un BorderPane, y el método main lanza la aplicación. Los métodos init y stop imprimen mensajes en la consola para indicar el inicio y finalización de la aplicación.
