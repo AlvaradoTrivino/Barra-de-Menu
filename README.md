@@ -1,7 +1,7 @@
 ## Barra de Menu
 
 ![](https://github.com/AlvaradoTrivino/Barra-de-Menu/blob/main/Captura%20de%20pantalla%20(156).png)
-![]()
+![](https://github.com/AlvaradoTrivino/Barra-de-Menu/blob/main/Captura%20de%20pantalla%20(154).png)
 ![]()
 
 ## Obejetivo
